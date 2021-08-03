@@ -1,0 +1,11 @@
+[
+
+
+{
+"stocks": {"quantity": "10","type":"conditioner","name":"dove","price":"25","id":"1"}
+
+},
+{
+"stocks": {"quantity": "10","type":"food","name":"maggi","price":"35","id":"2"}
+}
+]
